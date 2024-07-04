@@ -8,9 +8,6 @@ This project diagnoses breast cancer using a Random Forest classifier. The datas
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Plots](#plots)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
